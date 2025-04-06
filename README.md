@@ -1,14 +1,14 @@
 
-# TalentScout Interview Assistant
+# TalentScout HR Assistant
 
-![TalentScout Interview ](https://miro.medium.com/v2/resize:fit:650/1*1sIfrB5FpxSuh9q8gs87SQ.jpegt)  
+![TalentScout Interview ](https://miro.medium.com/v2/resize:fit:650/1*1sIfrB5FpxSuh9q8gs87SQ.jpeg)  
 *A Streamlit-based chatbot for automating the initial candidate screening process.*
 
 ---
 
 ## Project Overview
 
-The **TalentScout Interview Assistant** is a conversational AI-powered chatbot designed to streamline the hiring process. It interacts with candidates to gather essential information, such as personal details, technical skills, and experience, and asks technical questions based on the candidate's tech stack. The chatbot ensures a structured and efficient screening process while adhering to GDPR guidelines.
+The **TalentScout HR Assistant** is a conversational AI-powered chatbot designed to streamline the hiring process. It interacts with candidates to gather essential information, such as personal details, technical skills, and experience, and asks technical questions based on the candidate's tech stack. The chatbot ensures a structured and efficient screening process while adhering to GDPR guidelines.
 
 ### Key Features:
 - **Interactive Chat Interface**: A user-friendly Streamlit-based interface for seamless interaction.
