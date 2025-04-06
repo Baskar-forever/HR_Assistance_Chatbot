@@ -27,8 +27,8 @@ The **TalentScout HR Assistant** is a conversational AI-powered chatbot designed
 ### Steps to Set Up Locally:
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd InterviewChatbot
+   git clone https://github.com/Baskar-forever/HR_Assistance_Chatbot.git
+   cd HR_Assitance_Chatbot
    ```
 
 2. **Create Virtual Environment and Activate**:
