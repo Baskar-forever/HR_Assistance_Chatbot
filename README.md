@@ -121,7 +121,7 @@ The chatbot's behavior is controlled by a detailed system prompt that:
 
 ---
 
-## Architecture Flow
+## Sample Conversation
 
 ![Interview Bot Flow](Interviewbot_poc_image.png)
 
